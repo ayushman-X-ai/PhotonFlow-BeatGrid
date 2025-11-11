@@ -154,7 +154,3 @@ Try forcing:
 MIT License © 2025 **Ayushman Banerjee**
 
 ---
-
-## 🙏 Credits
-Designed, engineered, and documented by **Ayushman Banerjee**  
-Part of the **PhotonFlow** cinematic effects suite.
